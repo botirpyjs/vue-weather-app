@@ -148,7 +148,10 @@ main {
 }
 @media (max-width: 400px) {
   main{
-    width: 70%;
+    width: 80%;
+  }
+  .search-box .search-bar{
+    width: 80%;
   }
 }
 </style>
