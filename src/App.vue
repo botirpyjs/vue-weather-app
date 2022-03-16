@@ -148,8 +148,8 @@ main {
 }
 @media (max-width: 400px) {
   main{
-  display: grid;
-  grid-template-columns: 100% 100%;
+    display: flex;
+    flex-direction: column;
   }
 }
 </style>
