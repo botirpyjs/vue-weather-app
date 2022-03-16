@@ -151,5 +151,8 @@ main {
     display: flex;
     flex-direction: column;
   }
+  .search-box .search-bar{
+    margin-top: 5vh;
+  }
 }
 </style>
