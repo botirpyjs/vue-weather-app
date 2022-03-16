@@ -148,10 +148,8 @@ main {
 }
 @media (max-width: 400px) {
   main{
-    width: 95%;
-  }
-  .search-box .search-bar{
-    width: 95%;
+  display: grid;
+  grid-template-columns: 100% 100%;
   }
 }
 </style>
