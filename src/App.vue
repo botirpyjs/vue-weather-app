@@ -76,6 +76,8 @@ body {
   background-size: cover;
   background-position: center;
   transition: 4s;
+  display: flex;
+  flex-direction: column;
 }
 #app.warm{
   background-image: url("https://images.alphacoders.com/938/938875.jpg");
